@@ -1,6 +1,14 @@
-**Sushil Gautam** [cloudtechtalk2020@gmail.com](mailto:cloudtechtalk2020@gmail.com) **Cloud DevOps Engineer** [www.linkedin.com/in/sushil-gautam](http://www.linkedin.com/in/sushil-gautam)
+**Sushil Gautam**
 
-**Boston, MA** [https://github.com/SushilGautam](https://github.com/SushilGautam)
+**Cloud DevOps Engineer**
+
+**Boston, MA**
+
+[https://github.com/SushilGautam](https://github.com/SushilGautam)
+
+[cloudtechtalk2020@gmail.com](mailto:cloudtechtalk2020@gmail.com)
+
+[www.linkedin.com/in/sushil-gautam](http://www.linkedin.com/in/sushil-gautam)
 
 **Profile**
 
