@@ -66,7 +66,7 @@ Microsoft Windows Server 2012 R2
 
 CCNA
 
-A+ from Cisco Networking Academy
+CompTIA A+ from Cisco Networking Academy
 
 **Online Courses**
 
